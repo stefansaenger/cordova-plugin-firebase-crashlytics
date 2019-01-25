@@ -19,7 +19,6 @@ repositories {
     }
 }
 
-apply plugin: com.crashlytics.tools.gradle.CrashlyticsPlugin
 
 dependencies {
     compile('com.crashlytics.sdk.android:crashlytics:2.9.1@aar') {
